@@ -2,11 +2,11 @@
 
 ## Remember this is not a fun excercise, so take it seriously and reap it's fruits afterwards..
 
-### Study Material Link:
+### Study Material Link :blue_book: :
 * [RHCSA by Sander](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/)
 * Linux machine details will be provided at the start of session
 
-### Timing breakdown:
+### Timing breakdown :watch: :
 * Event Dates: 20, 21 and 22 April-2018
 * Event will start sharp at 19:00 PM GMT and last till 6:00 AM Morning
 
@@ -27,8 +27,8 @@ Phase-3 | Hour-12       | 06:00  | 20Min - Discussion/Break
 
 * **Total Time:** 12 Hours including breaks    
 
-### Rules of the game:
-* Rule-1 : **Jail your mobile**
+### Rules of the game :hourglass: :
+* Rule-1 : **Jail your mobile** :mute:
   - No mobile usage during hackathon
 * Rule-2 : **OneFocus**
   - You are only allowed to open the study material into your browser. **Strictly no extra tabs allowed**
