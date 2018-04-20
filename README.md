@@ -1,4 +1,4 @@
-## Welcome to RHCSA - Hackathon
+## Welcome to L:penguin:nux RHCSA - Hackathon
 
 ## Remember this is not a fun excercise, so take it seriously and reap it's fruits afterwards..
 
