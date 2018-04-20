@@ -11,23 +11,18 @@
 Phase   | Break Down    | Time
 --------|---------------|---------
  Phase-1| Hour-1        | 19:00
- | Hour-2        | 20:00
-        | Hour-3        | 21:00
-        | Hour-4        | 22:00
-Phase-2 | Hour-5        | 23:00
-        | Hour-6        | 00:00
-        | Hour-7        | 01:00
-        | Hour-8        | 02:00
+ Phase-1| Hour-2        | 20:00
+ Phase-1| Hour-3        | 21:00
+ Phase-1| Hour-4        | 22:00
+ Phase-2 | Hour-5        | 23:00
+  Phase-2       | Hour-6        | 00:00
+  Phase-2       | Hour-7        | 01:00
+  Phase-2       | Hour-8        | 02:00
 Phase-3 | Hour-9        | 03:00
-        | Hour-10       | 04:00
-        | Hour-11       | 05:00
-        | Hour-12       | 06:00
+Phase-3        | Hour-10       | 04:00
+Phase-3        | Hour-11       | 05:00
+ Phase-3       | Hour-12       | 06:00
       
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 ### Rules of the game:
 * Rule-1 : Jail your mobile
