@@ -6,6 +6,7 @@
 * [RHCSA by Sander](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/)
 
 ### Timing breakdown:
+* Event Dates: 20, 21 and 22 April-2018
 * Event will start sharp at 19:00 PM GMT and last till 6:00 AM Morning
 
 Phase   | Break Down    | Time   |         Event
@@ -35,7 +36,7 @@ Phase-3 | Hour-12       | 06:00  | 20Min - Discussion/Break
 * Rule-3 : **Timings Bifurcation**
   - Iamok - This will be done in every one hour for 5 minutes
   - Discussion - If required after 2 hours - 20 Minutes
-* Rule-4 : IamTiered
+* Rule-4 : **IamTiered**
   - You are allowed to take water and food break in every hour for 5-minutes only,
   - Or you may combine your breaks and take a bigger one too,
   - You are entitled for a 20 minutes break after 2 Hours of stretch,
@@ -46,3 +47,13 @@ Phase-3 | Hour-12       | 06:00  | 20Min - Discussion/Break
 * [Module 2: Operating Red Hat Enterprise Linux Servers](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_02_00_00.html)
 * [Module 3: Performing Advanced System Administration Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_03_00_00.html)
 * [Module 4: Managing Network Services](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_04_00_00.html)
+
+Module Total Duration: 15:16:09
+
+Module number| Module Name                |   Chapters
+-------------|----------------------------|---------------
+Module-1      | [Performing Basic System Management Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_01_00_00.html)] |Chapter 1-8
+Module-2      | [Operating Red Hat Enterprise Linux Servers](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_02_00_00.html) | Chapter 9-15
+Module-3      | [Performing Advanced System Administration Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_03_00_00.html) |Chapter 16-18
+Module-4      | [Managing Network Services](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_04_00_00.html) |Chapter 19-26
+-------------------------------
