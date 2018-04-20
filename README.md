@@ -1,7 +1,7 @@
 ## Welcome to RHCSA - Hackathon
 
 ### Study Material Link:
-* [RHCSA by Sander] (https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/)
+* [RHCSA by Sander](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/)
 
 ### Rules of the game:
 * Rule-1 : Jail your mobile
@@ -13,10 +13,7 @@
 
 
 ###Module Breakdown:
-* Module 1: Performing Basic System Management Tasks
-* Module 2: Operating Red Hat Enterprise Linux Servers
-* Module 3: Performing Advanced System Administration Tasks
-* Module 4: Managing Network Services
-
-
-  
+* [Module 1: Performing Basic System Management Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_01_00_00.html)
+* [Module 2: Operating Red Hat Enterprise Linux Servers](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_02_00_00.html)
+* [Module 3: Performing Advanced System Administration Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_03_00_00.html)
+* [Module 4: Managing Network Services](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_04_00_00.html)
