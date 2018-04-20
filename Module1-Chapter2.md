@@ -15,7 +15,7 @@
   
 * `less` command is a pager.</br>
 * `[]` Square bracket for a command is optional, you may use a command with that option
-* `...` One option or mutiple option can be used for that command. Similarly one or more than one file can be used.
+* `...` (Repeate the previous item)One option or mutiple option can be used for that command. Similarly one or more than one file can be used.
 
 If you forget some command option you can make use of `help`. The command you are already fimilar with and want to check specific 
 option. Whereas if you don't know about a command and learn about the option and what that command do then you can make use of `man` pages.
@@ -35,3 +35,11 @@ option. Whereas if you don't know about a command and learn about the option and
 
 Seacrhing something in `man` traverse form 1 till section 9 and if it finds something in any of the section it stops there and gives 
 back the result.
+
+```sh
+#man command look for intro in section 7
+>man 7 intro
+#Man page for man
+>man man
+```
+
