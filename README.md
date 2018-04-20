@@ -36,7 +36,7 @@ Phase-3 | Hour-12       | 06:00  | 20Min - Discussion/Break
 * Rule-3 : **Timings Bifurcation**
   - Iamok - This will be done in every one hour for 5 minutes
   - Discussion - If required after 2 hours - 20 Minutes
-* Rule-4 : **IamTiered**
+* Rule-4 : **IamTired**
   - You are allowed to take water and food break in every hour for 5-minutes only,
   - Or you may combine your breaks and take a bigger one too,
   - You are entitled for a 20 minutes break after 2 Hours of stretch,
