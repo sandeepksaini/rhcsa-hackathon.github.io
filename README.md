@@ -4,6 +4,7 @@
 
 ### Study Material Link:
 * [RHCSA by Sander](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/)
+* Linux machine details will be provided at the start of session
 
 ### Timing breakdown:
 * Event Dates: 20, 21 and 22 April-2018
@@ -50,4 +51,6 @@ Module-1     | [Performing Basic System Management Tasks](https://www.safaribook
 Module-2      | [Operating Red Hat Enterprise Linux Servers](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_02_00_00.html) | C- 9-15 | 7
 Module-3      | [Performing Advanced System Administration Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_03_00_00.html) |C- 16-18 | 3
 Module-4      | [Managing Network Services](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_04_00_00.html) |C- 19-26 | 8
+
+### Good Luck :thumbsup:
 
