@@ -11,7 +11,7 @@
 Phase   | Break Down    | Time
 --------|---------------|---------
  Phase-1| Hour-1        | 19:00
-        | Hour-2        | 20:00
+ | Hour-2        | 20:00
         | Hour-3        | 21:00
         | Hour-4        | 22:00
 Phase-2 | Hour-5        | 23:00
