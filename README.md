@@ -42,7 +42,7 @@ Phase-3 | Hour-12       | 06:00  | 20Min - Discussion/Break
 
 ### Module Breakdown:
 
-* **Module Total Duration:** 15:16:09
+* **Module Total Duration:** 15 Hr 16 Min 09 Sec
 
 Module number| Module Name                |   Chapters | Total Chapters|
 -------------|----------------------------|------------|-----------------
