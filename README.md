@@ -9,7 +9,7 @@
 * Event will start sharp at 19:00 PM GMT and last till 5:00 AM Morning
 
 Phase   | Break Down    | Time
---------------------------------
+--------|---------------|---------
  Phase-1| Hour-1        | 19:00
         | Hour-2        | 20:00
         | Hour-3        | 21:00
@@ -23,6 +23,11 @@ Phase-3 | Hour-9        | 03:00
         | Hour-11       | 05:00
         | Hour-12       | 06:00
       
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ### Rules of the game:
 * Rule-1 : Jail your mobile
