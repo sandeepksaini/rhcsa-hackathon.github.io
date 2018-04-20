@@ -6,30 +6,33 @@
 * [RHCSA by Sander](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/)
 
 ### Timing breakdown:
-* Event will start sharp at 19:00 PM GMT and last till 5:00 AM Morning
+* Event will start sharp at 19:00 PM GMT and last till 6:00 AM Morning
 
-Phase   | Break Down    | Time
---------|---------------|---------
- Phase-1| Hour-1        | 19:00
- Phase-1| Hour-2        | 20:00
- Phase-1| Hour-3        | 21:00
- Phase-1| Hour-4        | 22:00
- Phase-2 | Hour-5        | 23:00
-  Phase-2       | Hour-6        | 00:00
-  Phase-2       | Hour-7        | 01:00
-  Phase-2       | Hour-8        | 02:00
-Phase-3 | Hour-9        | 03:00
-Phase-3        | Hour-10       | 04:00
-Phase-3        | Hour-11       | 05:00
- Phase-3       | Hour-12       | 06:00
+Phase   | Break Down    | Time   |         Event
+--------|---------------|--------|----------------------------
+Phase-1 | Hour-1        | 19:00  | 
+Phase-1 | Hour-2        | 20:00  | 20Min - Discussion/Break
+Phase-1 | Hour-3        | 21:00  | 
+Phase-1 | Hour-4        | 22:00  | 20Min - Discussion/Break
+Phase-2 | Hour-5        | 23:00  |
+Phase-2 | Hour-6        | 00:00  | 20Min - Discussion/Break
+Phase-2 | Hour-7        | 01:00  |
+Phase-2 | Hour-8        | 02:00  | 20Min - Discussion/Break
+Phase-3 | Hour-9        | 03:00  |
+Phase-3 | Hour-10       | 04:00  | 20Min - Discussion/Break
+Phase-3 | Hour-11       | 05:00  |
+Phase-3 | Hour-12       | 06:00  | 20Min - Discussion/Break
+---------------------------------------------------------------
+
+**Total Time:** 12 Hours including breaks
       
 
 ### Rules of the game:
-* Rule-1 : Jail your mobile
+* Rule-1 : **Jail your mobile**
   - No mobile usage during hackathon
-* Rule-2 : OneFocus
+* Rule-2 : **OneFocus**
   - You are only allowed to open the study material into your browser. **Strictly no extra tabs allowed**
-* Rule-3 : Timings Bifurcation 
+* Rule-3 : **Timings Bifurcation**
   - Iamok - This will be done in every one hour for 5 minutes
   - Discussion - If required after 2 hours - 20 Minutes
 * Rule-4 : IamTiered
