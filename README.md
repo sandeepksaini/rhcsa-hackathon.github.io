@@ -1,6 +1,6 @@
 ## Welcome to RHCSA - Hackathon
 
-## Remember this is not a fun excercise so take it seriously and reap the fruits afterwards..
+## Remember this is not a fun excercise, so take it seriously and reap it's fruits afterwards..
 
 ### Study Material Link:
 * [RHCSA by Sander](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/)
@@ -44,12 +44,12 @@ Phase-3 | Hour-12       | 06:00  | 20Min - Discussion/Break
 
 ### Module Breakdown:
 
-* Module Total Duration: 15:16:09
+* **Module Total Duration:** 15:16:09
 
-Module number| Module Name                |   Chapters
--------------|----------------------------|---------------
-Module-1     | [Performing Basic System Management Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_01_00_00.html) |Chapter 1-8
-Module-2      | [Operating Red Hat Enterprise Linux Servers](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_02_00_00.html) | Chapter 9-15
-Module-3      | [Performing Advanced System Administration Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_03_00_00.html) |Chapter 16-18
-Module-4      | [Managing Network Services](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_04_00_00.html) |Chapter 19-26
--------------------------------
+Module number| Module Name                |   Chapters | Total Chapters|
+-------------|----------------------------|------------|-----------------
+Module-1     | [Performing Basic System Management Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_01_00_00.html) |Chapter 1-8 | 8
+Module-2      | [Operating Red Hat Enterprise Linux Servers](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_02_00_00.html) | Chapter 9-15 | 7
+Module-3      | [Performing Advanced System Administration Tasks](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_03_00_00.html) |Chapter 16-18 | 3
+Module-4      | [Managing Network Services](https://www.safaribooksonline.com/library/view/red-hat-certified/9780134723990/RHCA_04_00_00.html) |Chapter 19-26 | 8
+------------------------------------------------------------------------------------
